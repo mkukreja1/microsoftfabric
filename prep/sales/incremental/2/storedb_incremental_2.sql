@@ -3,4 +3,3 @@ UPDATE [store_orders] SET [sale_price] = '32.10', [currency] = 'USD', [order_mod
 UPDATE [store_orders] SET [sale_price] = '49.78', [currency] = 'USD', [order_mode] = 'EDIT', [updated_at] = CURRENT_TIMESTAMP WHERE [order_number] = 1254;
 UPDATE [store_orders] SET [sale_price] = '34.40', [currency] = 'USD', [order_mode] = 'EDIT', [updated_at] = CURRENT_TIMESTAMP WHERE [order_number] = 2234;
 UPDATE [store_orders] SET [sale_price] = '93.77', [currency] = 'CAD', [order_mode] = 'EDIT', [updated_at] = CURRENT_TIMESTAMP WHERE [order_number] = 500;
-GO
