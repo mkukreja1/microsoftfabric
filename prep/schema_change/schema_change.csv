@@ -1,0 +1,2 @@
+Op,order_number,customer_id,product_id,order_date,units,sale_price,currency,order_mode,updated_at,new_column
+I,2501,568,3,04/05/2020,10,68.07,USD,EDIT,2023-01-12 18:51:44,TEST
