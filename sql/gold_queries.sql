@@ -54,7 +54,7 @@ ________________________________________________________________________________
 
 
 
-QUERIES FOR aggregated_store_sales_by_year  
+QUERIES FOR aggregated_inventory_by_quarter  
 ________________________________________________________________________________________________________________________________________________________________________
 
 CREATE TABLE "electroniz_gold"."aggregated_inventory_by_quarter" AS
